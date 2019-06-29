@@ -1,0 +1,4 @@
+stanza;LivingRoom;5.0;6.0;27.06.2019;ALTA
+piscina;Rettangolo;2.5;3.0;4.9;5.9
+stanza;Sala Ospiti;6.0;7.0;24.06.2019;BASSA
+mini campo da golf;Rettangolo;3.0;3.5;5.9;6.9
